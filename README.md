@@ -24,4 +24,4 @@ This code modifies and enhances the [Primo VE showcase widget](https://developer
     ['nde-landing-page', NdeLandingPageCustomComponent]
    ]);
    ```
-6. Copy `src/assets/homepage/` directory to your project (this will use our HTML and CSS for your homepage)
+6. Copy the HTML and CSS file found in `src/assets/homepage/` directory to your project (if you've already made homepage_en.html or homepage.css file(s) this will overwrite them, thus you may want to just manually copy the code)
