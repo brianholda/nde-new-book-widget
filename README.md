@@ -1,4 +1,4 @@
-# nde-new-book-widget
+# NDE New Book Widget
 Modifies and enhances the [Primo VE showcase widget](https://developers.exlibrisgroup.com/blog/primo-showcase-how-to-embed/)
 
 ## How to Deploy
