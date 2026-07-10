@@ -1,8 +1,10 @@
 # NDE New Book Widget
 ## Screenshot
-<img width="1877" height="498" alt="new book widget example" src="https://github.com/user-attachments/assets/fed8f72d-afc6-457d-bb6e-aa92666849b0" />
+![new book widget example](https://github.com/user-attachments/assets/fed8f72d-afc6-457d-bb6e-aa92666849b0)
 
-This code modifies and enhances the [Primo VE showcase widget](https://developers.exlibrisgroup.com/blog/primo-showcase-how-to-embed/)
+This code modifies and enhances the [Primo VE showcase widget](https://developers.exlibrisgroup.com/blog/primo-showcase-how-to-embed/).
+
+It also drew on [APIs for Librarians - Dynamic New Books Display](https://www.apis4librarians.com/exlibris/dynamic-new-books-display) for inspiration.
 
 ## Steps
 1. Start with [NDE Custom Module](https://github.com/ExLibrisGroup/customModule) to gain access to NDE Angular customizations.
