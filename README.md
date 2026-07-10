@@ -6,5 +6,6 @@ This code modifies and enhances the [Primo VE showcase widget](https://developer
 
 ## Steps
 1. Start with [NDE Custom Module](https://github.com/ExLibrisGroup/customModule) to gain access to NDE Angular customizations.
-2. Copy `src/app/nde-landing-page-custom directory` to your project...
-3. Edit your customComponentMappings.ts file...
+2. Copy `src/app/nde-landing-page-custom` directory to your project.
+3. Edit your customComponentMappings.ts file to map the component
+4. 
