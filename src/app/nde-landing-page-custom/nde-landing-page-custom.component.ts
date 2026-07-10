@@ -197,13 +197,5 @@ export class NdeLandingPageCustomComponent implements AfterViewInit {
       }
     })();
 
-    // --- Add focus to search box ---
-    (function () {
-      const searchInput = document.getElementById('main-search-bar');
-      if (searchInput) {
-        searchInput.focus();
-      }
-    })();
-
   }
 }
