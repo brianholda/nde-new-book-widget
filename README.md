@@ -1,3 +1,7 @@
+# This is No Longer Needed as of August 2026 Primo Release
+See [Adding a Showcase Carousel to the Landing Page (NDE UI)](https://knowledge.exlibrisgroup.com/Primo/Product_Documentation/020Primo_VE/Primo_VE_(English)/050Display_Configuration/Adding_a_Showcase_Carousel_to_the_Landing_Page_(NDE_UI)) for a better way to achieve the showcase. It was good while it lasted though 😎
+***
+
 # NDE New Book Widget
 ## Screenshot
 ![new book widget example](https://github.com/user-attachments/assets/fed8f72d-afc6-457d-bb6e-aa92666849b0)
